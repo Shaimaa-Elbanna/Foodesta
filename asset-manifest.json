@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Foodesta/static/css/main.e2511eed.css",
+    "main.js": "/Foodesta/static/js/main.375ec625.js",
+    "static/js/787.622a8aaf.chunk.js": "/Foodesta/static/js/787.622a8aaf.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Foodesta/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/Foodesta/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/Foodesta/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/Foodesta/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/Foodesta/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/logo.png": "/Foodesta/static/media/logo.d949f696c26d12acfb93.png",
+    "static/media/fa-regular-400.woff2": "/Foodesta/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Foodesta/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Foodesta/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/Foodesta/index.html",
+    "main.e2511eed.css.map": "/Foodesta/static/css/main.e2511eed.css.map",
+    "main.375ec625.js.map": "/Foodesta/static/js/main.375ec625.js.map",
+    "787.622a8aaf.chunk.js.map": "/Foodesta/static/js/787.622a8aaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2511eed.css",
+    "static/js/main.375ec625.js"
+  ]
+}
