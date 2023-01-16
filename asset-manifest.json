@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Foodesta/static/css/main.e2511eed.css",
-    "main.js": "/Foodesta/static/js/main.375ec625.js",
+    "main.js": "/Foodesta/static/js/main.8f889196.js",
     "static/js/787.622a8aaf.chunk.js": "/Foodesta/static/js/787.622a8aaf.chunk.js",
     "static/media/fa-solid-900.ttf": "/Foodesta/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/fa-brands-400.ttf": "/Foodesta/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
@@ -14,11 +14,11 @@
     "static/media/fa-v4compatibility.woff2": "/Foodesta/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/Foodesta/index.html",
     "main.e2511eed.css.map": "/Foodesta/static/css/main.e2511eed.css.map",
-    "main.375ec625.js.map": "/Foodesta/static/js/main.375ec625.js.map",
+    "main.8f889196.js.map": "/Foodesta/static/js/main.8f889196.js.map",
     "787.622a8aaf.chunk.js.map": "/Foodesta/static/js/787.622a8aaf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2511eed.css",
-    "static/js/main.375ec625.js"
+    "static/js/main.8f889196.js"
   ]
 }
