@@ -37,7 +37,7 @@ type IngredientPage={
 
           {ingrediant.map ((ingr,i)=>
            <div className="col-md-3 col-sm-6 shadow-lg  p-3 "key={i}>
-          ce
+        
       <Link to={'/certainIng/'+ ingr.strIngredient} onClick={()=>{setFunction?.setVariable("i", ingr.strIngredient)}}>
 
            <div className="mainIngrediant text-center">
